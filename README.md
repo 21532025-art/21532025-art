@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Daniel Kyama
 
 ## About Me
 - I'm currently a student vis at Kenyatta university
