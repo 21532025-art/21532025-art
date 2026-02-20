@@ -3,7 +3,7 @@
 ## About Me
 - I'm currently a student vis at Kenyatta university
 - I'm interested in AI,Machine learning and app development
-- I'm looking to collaborate on friends andbeginner-friendly open source projects
+- I'm looking to collaborate on friends andbeginner-friendly open source projects.
 
 ## Skills I'm Building
 - Git and GitHub
