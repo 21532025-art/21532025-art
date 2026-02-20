@@ -7,12 +7,12 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- pyton,app development using
+- python,app development using VS Code
 
 ## Current Projects
 - KU Mart
 
 ## How to Reach Me
-- Email: dkyama3@gmail.com
+- Email: dkyama3@gmail.com 
 - LinkedIn: Daniel Kyama
 - Add my profile README
