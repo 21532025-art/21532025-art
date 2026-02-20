@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Kyama
 
 ## About Me
-- I'm currently a student vis at Kenyatta university
+- I'm currently a student vis at Kenyatta university.
 - I'm interested in AI,Machine learning and app development
 - I'm looking to collaborate on friends andbeginner-friendly open source projects.
 
