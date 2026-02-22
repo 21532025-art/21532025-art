@@ -52,4 +52,3 @@ My name is Daniel Kyama.I am currently doing 2 courses
 2. *If we can Academy*
 - I am currently building an ~~app~~ that will work efficiently in our school
 [My Github Link](https://github.com/21532025-art)
-Add markdown practise exercises
