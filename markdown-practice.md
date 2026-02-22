@@ -30,10 +30,10 @@ Build a project on my own and with my team.Learn how to ~~push and pull~~ change
 |VS Code |writing,editing,debugging and managing code|[Link](https://vscode.dev/)                |
 
 # Task List
-[x] learn how to use Github
-[x] Learn how to use git bash
-[x] Learn how to use VS code
-[ ] Learn how to intergrate AI in apps
+- [x] learn how to use Github
+- [x] Learn how to use git bash
+- [x] Learn how to use VS code
+- [ ] Learn how to intergrate AI in apps
 
 # Code Block
 ```python
@@ -47,9 +47,9 @@ print("Hello, world!")
 My name is Daniel Kyama.I am currently doing 2 courses
 - **Bachelors of commerce**
 - **AI**
-In 2 different institutions
+- In 2 different institutions
 1. *Kenyatta University*
 2. *If we can Academy*
-I am currently building an ~~app~~ that will work efficiently in our school
+- I am currently building an ~~app~~ that will work efficiently in our school
 [My Github Link](https://github.com/21532025-art)
 Add markdown practise exercises
