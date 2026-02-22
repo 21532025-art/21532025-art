@@ -15,4 +15,4 @@
 ## How to Reach Me
 - Email: dkyama3@gmail.com 
 - LinkedIn: Daniel Kyama
-git commit -m "Add my profile README"
+
